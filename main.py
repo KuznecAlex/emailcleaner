@@ -1,7 +1,7 @@
 import imaplib
 import email
 
-mail_pass = input("Введите пароль для внешних приложений: ")  # Пароль для внешних приложений #hHBiQKmQQz8dwjDig9Mq
+mail_pass = input("Введите пароль для внешних приложений: ")  # Пароль для внешних приложений 
 username = input("Введите почту: ")  # почта
 year_to_delete = input("Введите год на удаление: ")
 imap_server = "imap.mail.ru"
